@@ -13,10 +13,9 @@ DoWell API services offer a wide range of features for managing newsletter subsc
 Our API service offers the following essential features to enhance your newsletter management:
 
 1. Retrieve the list of subscribers: Easily access and retrieve the list of subscribers who have joined your newsletter.
-
 2. Enable user subscription: Allow users to subscribe to your newsletter with ease, simplifying the process for both you and your subscribers.
-
 3. Unsubscribe functionality: Give users the option to unsubscribe from your newsletter whenever they wish, ensuring a positive and respectful user experience.
+4. Distribute newsletters: Distribute your newsletters to all subscribed users or a specific set of subscribers, allowing you to reach your audience effectively and efficiently.
 
 ## Conclusion
 
